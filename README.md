@@ -14,7 +14,7 @@ Vos valeurs sont : [5, 8, 9, 1, 0, 2, 3, 6, 7]
 Ecrire un programme qui lit un fichier et enregistre chaque ligne comme un element d'une liste
 
 ## challenge #3
-Carnet d'adresse, creer un progration un programme permettant d'enregistrer des contants et leur nom.
+Carnet d'adresse, creer un progration un programme permettant d'enregistrer des contants et leur nom et trier le resultat par ordre alphabetique des noms.
 Afficher le carnet d'adresse
 ```sh
 Combien de contacts voulez-vous enregister ? 
@@ -24,9 +24,9 @@ Entrez vos 3 contacts
 >> tom 11122222
 >> harry 12299933
 La liste de vos contacts:
+harry - 12299933
 sam - 99912222
 tom - 11122222
-harry - 12299933
 ```
 
 ## challenge #4
