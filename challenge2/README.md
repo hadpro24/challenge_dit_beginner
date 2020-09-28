@@ -6,7 +6,7 @@ Afficher l’ensemble des nombres premiers inferieurs a 100.
 ## Challenge 2
 Afficher la liste du 10e au 20e nombre premier:  ```:[31, 37, 41, 43, 47, 53, 59, 61, 67, 71].```
 
-## Challenge 3
+## Quiz 3
 Après ces instructions, de quel type est la variable c ?
 ```python
 a = 8
@@ -14,11 +14,11 @@ b = 3
 c = a / b
 ```
 
-## Challenge 4
+## Quiz 4
 Quelle est la variable de type str (chaîne de caractères) parmi les choix suivants ?
 `3 - 3.1 - "3"`
 
-## Challenge 5
+## Quiz 5
 Quelle est la différence entre entrer une variable dans l'interpréteur interactif et utiliser la fonction print ?
 ```
 1 - Aucune
@@ -26,7 +26,7 @@ Quelle est la différence entre entrer une variable dans l'interpréteur interac
 3 - La fonction print est dédiée à l'affichage, l'interpréteur au débuggage.
 ```
 
-## Challenge 6
+## Quiz 6
 De quoi doit être composée une condition au minimum ?
 ```
 1 - D'un bloc if
