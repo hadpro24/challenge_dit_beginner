@@ -1,10 +1,32 @@
-# Challenge 
+<h1 align="center">
+  Challenge #1
+</h1>
 
 ## Challenge 1
 Afficher l’ensemble des nombres premiers inferieurs a 100.
 
 ## Challenge 2
 Afficher la liste du 10e au 20e nombre premier:  ```:[31, 37, 41, 43, 47, 53, 59, 61, 67, 71].```
+
+<h1 align="center">
+  Quiz #2
+</h1>
+
+## Quiz 1
+Chaque élément d'une liste est associé à son index, c'est à dire à sa position.
+```
+Vrai
+Faux
+```
+
+## Quiz 2
+Pour transformer une chaîne de caractères en liste, j'utilise la méthode suivante:
+
+```
+ .list() 
+ .to_list() 
+ .split() 
+ ```
 
 ## Quiz 3
 Après ces instructions, de quel type est la variable c ?
