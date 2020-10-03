@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Quiz #2
+  Quiz
 </h1>
 
 ## Quiz 1
