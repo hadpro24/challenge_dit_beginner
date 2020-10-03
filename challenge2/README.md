@@ -1,12 +1,3 @@
-<h1 align="center">
-  Challenge #1
-</h1>
-
-## Challenge 1
-Afficher l’ensemble des nombres premiers inferieurs a 100.
-
-## Challenge 2
-Afficher la liste du 10e au 20e nombre premier:  ```:[31, 37, 41, 43, 47, 53, 59, 61, 67, 71].```
 
 <h1 align="center">
   Quiz #2
